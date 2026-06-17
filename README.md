@@ -1,94 +1,156 @@
 # Hi, I'm Deependra Singh Gurjar 👋
 
-Cloud Automation & Platform Engineer from India 🇮🇳
+Platform Engineer | Cloud Automation | Terraform | Kubernetes | Azure
 
-I build self-service cloud platforms, infrastructure automation, and developer experiences across Azure, AWS, Kubernetes, and VMware environments.
+I build self-service cloud platforms, infrastructure automation frameworks, and developer experiences that help teams move faster and operate at scale.
 
-Over the past 5+ years, I've worked on enterprise cloud migrations, platform engineering initiatives, Terraform automation frameworks, CI/CD systems, and multi-cloud provisioning platforms serving global customers.
+With 5+ years of experience across Azure, AWS, Kubernetes, and VMware ecosystems, I've worked on enterprise cloud migrations, multi-cloud automation platforms, Terraform-based landing zones, CI/CD systems, and cloud governance solutions for global customers.
+
+---
 
 ## What I Do
 
-🚀 Platform Engineering
+☁️ Cloud Architecture & Platform Engineering
 
 ⚡ Infrastructure as Code (Terraform)
 
-☁️ Azure & AWS Cloud Architecture
-
 ☸️ Kubernetes & Container Platforms
 
-🔄 CI/CD & DevOps Automation
+🔄 CI/CD & Developer Experience
 
-🐍 Python-Based Automation
+🐍 Python Automation
 
 🔐 Cloud Security & Governance
+
+🚀 Internal Developer Platforms
+
+🤖 Workflow & AI Automation
+
+---
+
+## Impact
+
+* Migrated 300+ workloads from AWS to Azure
+* Built multi-cloud automation platforms across Azure, AWS and VMware
+* Reduced infrastructure provisioning effort by 60%
+* Automated customer onboarding and CI/CD generation
+* Delivered enterprise cloud solutions for global customers
+* Mentored and trained 30+ engineers on Terraform and Infrastructure as Code
+
+---
 
 ## Featured Projects
 
 ### Multi-Cloud Automation Platform
 
-Built a CloudBolt-integrated platform supporting:
+Self-service provisioning platform supporting:
 
 * Azure
 * AWS
 * VMware vCenter
 * VMware vCloud Director
 
-Capabilities:
+Key capabilities:
 
-* Self-service provisioning
-* Terraform code generation
+* Automated infrastructure provisioning
+* Dynamic Terraform generation
 * Customer onboarding automation
-* RBAC automation
+* RBAC assignment automation
+* Repository creation automation
 * CI/CD pipeline generation
 * Governance enforcement
 
+---
+
 ### Azure Landing Zone Framework
 
-Enterprise-ready Azure Landing Zone implementation including:
+Enterprise-ready landing zone implementation featuring:
 
 * Hub & Spoke Networking
-* RBAC
-* Monitoring
-* Key Vault
 * Private Endpoints
-* Disaster Recovery Architecture
+* Key Vault
+* Monitoring & Alerting
+* RBAC
+* Policy Enforcement
+* Disaster Recovery Design
 
-### Enterprise Migration Factory
+---
 
-Delivered Azure migration programmes involving 300+ workloads using:
+### Kubernetes Production Platform
 
-* Azure Migrate
-* Azure Site Recovery
-* Terraform
-* Azure DevOps
+Production-grade AKS patterns including:
+
+* Helm Deployments
+* Ingress Controllers
+* HPA Autoscaling
+* Prometheus Monitoring
+* Grafana Dashboards
+* Secure Namespace Isolation
+* GitOps Workflows
+
+---
+
+### n8n Automation Lab
+
+Workflow automation experiments focused on:
+
+* Infrastructure Operations
+* Incident Response
+* GitHub Automation
+* Cloud Cost Optimization
+* AI Agent Workflows
+* Human-in-the-Loop Processes
+
+---
 
 ## Tech Stack
 
-Azure • AWS • Terraform • Kubernetes • Docker • Python • Azure DevOps • GitHub Actions • Prometheus • Grafana • Helm • Linux
+Cloud:
+Azure • AWS • VMware
+
+Infrastructure:
+Terraform • Kubernetes • Docker • Helm
+
+Automation:
+Python • Bash • PowerShell • Jinja2
+
+CI/CD:
+Azure DevOps • GitHub Actions • Jenkins
+
+Observability:
+Prometheus • Grafana • Azure Monitor • Log Analytics
+
+---
 
 ## Certifications
 
-🏆 Azure Administrator Associate (AZ-104)
+🏆 Microsoft Certified Azure Administrator (AZ-104)
 
-🏆 Azure DevOps Engineer Expert (AZ-400)
+🏆 Microsoft Certified Azure DevOps Engineer Expert (AZ-400)
 
-🏆 Terraform Associate
+🏆 HashiCorp Terraform Associate
 
-🏆 Azure Fundamentals (AZ-900)
+🏆 Microsoft Azure Fundamentals (AZ-900)
 
-## Current Focus
+---
+
+## Currently Exploring
 
 * Platform Engineering
 * Internal Developer Platforms
-* AI Automation
+* AI Agents
 * n8n
-* Cloud Cost Optimization
+* Cloud FinOps
 * Kubernetes Operations
+* Developer Self-Service Platforms
 
-## Connect With Me
+---
+
+## Connect
 
 📧 Email: [deependrasinghgurjar51@gmail.com](mailto:deependrasinghgurjar51@gmail.com)
 
-💼 LinkedIn: [www.linkedin.com/in/deependra-singh-gurjar-a81822196](http://www.linkedin.com/in/deependra-singh-gurjar-a81822196)
+💼 LinkedIn:
+https://www.linkedin.com/in/deependra-singh-gurjar-a81822196/
 
-Always open to discussing cloud architecture, automation, platform engineering, and interesting infrastructure challenges.
+🌍 Open to Remote & International Opportunities
